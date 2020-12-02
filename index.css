@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+*{
+    border: 1px solid black;
+    font-family: 'Roboto Mono', monospace;
+}
+.circle{
+    height:15%;
+    width:15%;
+    border-radius: 50%;
+    text-align: left;
+}
+.open{
+    font-size: 25px;
+}
+.ybox{
+    vertical-align: top;
+    display:inline-block;
+}
+.yosemite{
+    font-size: 25px;
+}
+.yhead{
+    font-size: 70px;
+    font-family: 'Chelsea Market', cursive;
+}
+.icon{
+    height:80px;
+    width:80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main{
+    width: 90%;
+    background-color:#DDB9A3;
+    margin:auto;
+    color:white;
+    font-size: 25px;
+    margin-top: 100px;
+}
+
+.blurb{
+    padding-bottom: 40px;
+}
+
+.info{
+    margin: auto;
+    width:20%;
+}
+
+.footbanner{
+    height: 200px;
+    width: 100%;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.nav a{
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    width: 150px;
+    color: white;
+    border-radius: 15px;
+}
+.visit{
+    background-color: #FF764E;
+}
+.park{
+    background-color: #5ED3EB;
+}
+.involved{
+    background-color: #FFCD69;
+}
+
